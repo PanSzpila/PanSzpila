@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me p.t.podgorski@gmail+IT.com
+- 📫 How to reach me p.t.podgorski+IT@gmail.com
 
 <!---
 PanSzpila/PanSzpila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
