@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PanSzpila
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front End Development and blockchain
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on smart contracts development
 - 📫 How to reach me p.t.podgorski+IT@gmail.com
 
 <!---
